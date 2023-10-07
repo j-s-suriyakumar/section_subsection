@@ -1,0 +1,1441 @@
+﻿sub_section_name,is_relevant,section_name,main_section
+CONSULTS,Yes,*Discharge Quick Note,Discharge Summary
+Plan,Yes,: HISTORY AND PHYSICAL,History & Physical
+Medical History,Yes,Acute Rehab Consult,CONSULTATION REPORT
+Physical Examination at Discharge,Yes,ADMISSION/DISCHARGE INFORMATION,Discharge Summary
+PAST MEDICAL HISTORY,Yes,"Admit, Discharge, Transfer Forms",Discharge Summary
+NEW DISCHARGE MEDICATIONS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Admitting diagnosis,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Principal diagnosis,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Secondary diagnosis,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+History of Present Illness,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Echocardiogram,No,Admit/Transfer/Discharge Orders,Discharge Summary
+Comprehensive Care,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Exam,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Labs,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Medications,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Echocardiogram ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+After Visit Summary,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Diagnoses,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge time,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Admission Diagnoses,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Principal procedures,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Indication for Admission,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Hospital course &Complications,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Primary care physician,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Objective/ Exam ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Intake and Output,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Surgical Procedures,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Procedures ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Surgery A/P ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+consulting Services,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+CONDITION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Reason for hospitalization,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Diagnostic and procedural events,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Assessment/plan,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Face Sheet,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+History and Physical,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+ROS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Past Medical History/ Past Surgical History,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Family History,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Social History,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+VITALS,No,Admit/Transfer/Discharge Orders,Discharge Summary
+PHYSICAL EXAM ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Brief History,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Vital Signs,No,Admit/Transfer/Discharge Orders,Discharge Summary
+Review of Systems,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Physical Exam at Discharge,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Assessment ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Plan/Recommendations,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Interval History,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Objective,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Clinical Data ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Diagnosis,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Interventions,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Monitoring and Evaluation,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Physical Exam,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Follow-up,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Plan,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Follow-Up Appolntment,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PATIENT EDUCATION INFORMATION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patient Information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Functional Status,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Allergies ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Medications ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Assessment & Plan ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Vital Signs ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Lab results,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Radiology results ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Follow Up Information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+OTHER DIAGNOSES,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+OPERATIONS/PROCEDURES,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+CONDITION ON DISCHARGE,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+REASON FOR ADMISSION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+LAST LABS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+SICU History and Physical,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Documented Medications,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Problem list,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Physical Examination,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Review / Management ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Completed Action List,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Short Term PT Goals Grid,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Lona Term PT Goals Grid ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+General Info,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Assessment,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Primary Pain,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Transfer Rehab Grid,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Ambulation Rehab Grid ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Treatment Log,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+DC Recommendations,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Education,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+OT Pail ent/Famlly Goals,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Lona Term OT Goals Grid ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Plan Review ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Prior Functional Level Grid ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Functional Mobility ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Transfers OT,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Significant Findings,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+INDICATION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Diagnosis/Plan,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Treatments & Procedures,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Admission diagnosis,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Med Rec,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Education Materials,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Problems,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Consultations,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Person information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Clinical Discharge instructions,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Medical information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Orders,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge arrangements,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patient education Instructions,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge diagnosis and plan,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge disposition,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Complications and/or Infections,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+DischargeExam,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+provider information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+patient Education  information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Diagnoses and plan,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Follow up appointments,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patient Discharge condition,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Operative Procedures,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Hospital Events,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patient Discharge instructions,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+ Disposition,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+ Hospital Course,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Condition at Discharge,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+ Discharge Diagnosis,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PrimaryDiagnosis,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Procedures This Visit,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Summary,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Cansule Summary,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+ON Events,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Acute Problems,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Cchronic Problems,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Physical exam on day of discharge,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patient Instructions,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Reason for Hospitalitation,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patients Discharge Medications,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Significant Diagnostic Studies,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Diagnoses,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+CLINICAL RECOMMENDATIONS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Follow-up Appointments,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Physical Exam today,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+HPI,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Chief Complaint,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Risk Stratification,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+ROS Statements,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Re-Evaluation & MDM,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patient Discharge & Departure,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge/Care Plan,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+CONSULTATION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+DIET,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Major events/complications,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Major Events/Compli,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+HPI/Reason for Hospitalization,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Hospital Course with Significant Findings,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+DischargeDiagnosis and Plan,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Other Pertinent Discharge Information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Providers,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Laboratory,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PROCEDURE PERFORMED,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+BRIEF HOSPITAL COURSE,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+DISCHARGE LABS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Diagnosis1,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+High Risk OSA,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Medication List,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Discharge Summary,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Chief Chief complaintHPI,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Exam,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+DS DS Data,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+ Physical Exam,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PMH,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PSH,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patient Active Problem List,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Subjective,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+FINAL DIAGNOSES,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PROCEDURES PERFORMED DURING THIS HOSPITALIZATION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+CHIEF COMPLAINT AND HISTORY OF PRESENT ILLNESS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PAST HISTORY AND REVIEW OF SYSTEMS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+LABORATORY REPORTS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Procedures Documented This Visit,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Vitals-Last Recorded,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Diagnostic Results,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Follow Up,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge orders,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Daily Medication list,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PROCEDURES PERFORMED,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+HISTORY AND INDICATIONS FOR ADMISSION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PAST SURGICAL HISTORY,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+EXAMINATION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patient Identification,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Images ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Encounter Diagnoses,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Interpretation Summary,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Medications Administered ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Medication,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Description of Procedure ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Findings,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Recommendations,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Physical Exam/Objective,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Chronic Problem List,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PRIMARY DISCHARGE DIAGNOSES,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+SECONDARY DISCHARGE DIAGNOSES,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PERTINENT DIAGNOSTICS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+ISSUES TO BE ADDRESSED AT PCP FOLLOWUP,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+CODE STATUS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+ATTENDING PROVIDERS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+CONSULTING PROVIDERS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Prescriptions & Medication Information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+MEDICAL AND VISIT INFORMATION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patient Safety Instructions,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+ Patient Portal Information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Instructions from your Health Care Provider,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Medication & Last dose information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Medication Instructions,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Admission data,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+HPI reason for consultation,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Hospital with significant Findings,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Resolved Hospital Problems,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Active Non-Hospital Problems,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+REASON FOR HOSPITALIZATION AND HOSPITAL COURSE,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+TRANSITION/POST DISCHARGE CARE/PENDING TESTS/REFERRALS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+LINES/DRAINS/WOUNDS AT DISCHARGE,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Admit Diagnosis,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Active Problems,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Surgical Procedure(s),Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Summary of History and Hospital Course,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+RECOMMENDATION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Diagnoses present on admission,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Operation /procedure performed,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+lines and tubes,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Consultating services,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+FINDINGS/IMPRESSION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+DISCHARGE CONDITION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+DC Information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Quality Measures Discharge,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Order,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+New Prescriptions,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Continue taking the following Medication ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+STOP taking the following Medication ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Additional Diagnoses Treated During This Hospitalization,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+History on Presentation (from H & P),Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Events Leading to Death ,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Death Physical Exam,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+CARDIOLOGY ATTENDING,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+ICD placement,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+IDENTIFYING DATA,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+SUCCINCT SUMMARY OF ADMISSION STATUS AND HOSPITAL COURSE,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PATIENT'S MEDICAL CONDITION AT DISCHARGE,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+SUMMARY OF PROCEDURE(S) PERFORMED,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+RESULTS PENDING AT TIME OF DISCHARGE,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+MEDICATIONS TAKEN PRIOR TO ADMISSION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+IMMUNIZATION HISTOR,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+DISCHARGE ORDERS AND INSTRUCTIONS,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Brief HPI,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Care Management,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Palliative Care SW,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patient Education Services,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Therapeutic Activities,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Vital Signs/Skin,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+PCP,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Hospital Care Provider(s) for this visit,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Diet,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Discharge Activity,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Incision/Wound Care,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Additional Education,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+My Follow-up Appointment(s,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Procedures and Diagnostics,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Problem List/Past Medical History,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+DISCHARGE PHYSICAL EXAMINATION,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Examinations,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Encounter information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Free Text Dx A&P Notes,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Active plan,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Laboratory results,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Patient education,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+surgical history,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Clinical Resume,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Summary of Hospitalization,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Free text Dx A&P Note,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Free text obj Note,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Chief complaint on admission,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Intake andOutput,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Active Medications,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Admitting Diagnoses,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Medical History,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Active Hospital Problems,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+General Information,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Operations and procedures,Yes,Admit/Transfer/Discharge Orders,Discharge Summary
+Staff ,No,Anesthesia,Anesthesia Reports
+Prescription Medications,Yes,Anesthesia,Anesthesia Reports
+Labs (Last four charted values),Yes,Anesthesia,Anesthesia Reports
+Assessment and Plan,Yes,Anesthesia,Anesthesia Reports
+Patient Conditions:,Yes,Anesthesia,Anesthesia Reports
+PROCEDURE:,Yes,Anesthesia,Anesthesia Reports
+INDICATION:,Yes,Anesthesia,Anesthesia Reports
+FINDINGS:,Yes,Anesthesia,Anesthesia Reports
+IMPRESSION:,Yes,Anesthesia,Anesthesia Reports
+PLAN:,Yes,Anesthesia,Anesthesia Reports
+Events,Yes,Anesthesia Encounter,Anesthesia Reports
+Procedure Summary ,Yes,Anesthesia Encountes,Anesthesia Reports
+Facility Administered Medications ,Yes,ANESTHESIA GRAPH,Anesthesia Reports
+Anesthesia Plan ,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Anesthesia Post Evaluation ,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Medications,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+PRBC,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Patient Record,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Review of Medical History and Risk Assessment,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Extracorporeal Circulation Record ,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Planned procedure,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+HPI,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Anesthesia/Sedation History,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Ros/PMH(Review of System/past Medical History),Yes,ANESTHESIA ORDERS,Anesthesia Reports
+ASA plan,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Anesthesia Information,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Procedure Summary,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Responsible Staff,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Attestation Information,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Anesthesia Checklist,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Pre-anesthesia evaluation,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Active Hospital Problems,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Medical History,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Other History,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Assessment,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+ANESTHESIA RECORD,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Anesthesia record Continuation,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+CARDIO PULMONARY PERFUSION RECORD,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+BLOOD BANK TRANSFUSION RECORD,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+RADIOLOGY NURSING VITALS SHEET ,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+ENDOSCOPY I rADIOLOGY NURSING RECORD,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+PRE-PROCEDURE REVIEW OF SYSTEMS,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Medication,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Past Medical History,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Past Surgical History,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Social History,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+Vital Signs,No,ANESTHESIA ORDERS,Anesthesia Reports
+Labs,No,ANESTHESIA ORDERS,Anesthesia Reports
+PROPOSED PROCEDURE,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+SURGEON/PROCEDURAUST,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+HISTORY OF PRESENT ILLNESS,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+ROS,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+ANESTHETIC HISTORY,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+ALLERGIES,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+LABORATORY STUDIES,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+OTHER STUDIES,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+PHYSICAL EXAMINATION:,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+PLAN,Yes,ANESTHESIA ORDERS,Anesthesia Reports
+TEE ,Yes,Anesthesia Pre-Evaluation,Anesthesia Reports
+Central Venous Line,Yes,ANESTHESIA PRE-PROCEDURE CONSULT / H & P,Anesthesia Reports
+Anesthesia History,Yes,Anesthesia Record,Anesthesia Reports
+Anesthesia Summary,Yes,Anesthesia record Report,Anesthesia Reports
+Surgical History,Yes,Anesthesia Records,Anesthesia Reports
+Labs (Last four charted values),Yes,Anesthesia Records,Anesthesia Reports
+Assessment and Plan,Yes,Anesthesia Records,Anesthesia Reports
+Patient Conditions:,Yes,Anesthesia Records,Anesthesia Reports
+PROCEDURE:,Yes,Anesthesia Records,Anesthesia Reports
+INDICATION:,Yes,Anesthesia Records,Anesthesia Reports
+FINDINGS:,Yes,Anesthesia Records,Anesthesia Reports
+IMPRESSION:,Yes,Anesthesia Records,Anesthesia Reports
+PLAN:,Yes,Anesthesia Records,Anesthesia Reports
+Assessment,Yes,Blue Surgery History and Physical,History & Physical
+SEDATION,Yes,Cardiac cath,OPERATIVE REPORT
+LAB:,Yes,CARDIAC CATHETERIZATION / EP LAB RECORD,OPERATIVE REPORT
+PRE PROCEDURAL DIAGNOSIS,Yes,Cardiac Catheterization Report,OPERATIVE REPORT
+PHYSICIAN ATTESTATION,No,CARDIOLOGY CONSULT PROGRESS NOTE,Progress Note
+Medications,Yes,CARDIOLOGY CONSULTATION,CONSULTATION REPORT
+Imaging,Yes,Cardiology Critical Care Progress Note,Progress Note
+physical exam,Yes,Cardiology Initial Consult Note,CONSULTATION REPORT
+implants,Yes,Cardiology procedure,OPERATIVE REPORT
+EXAM,Yes,Cardiology Procedures,OPERATIVE REPORT
+Assessment and Plan,Yes,Cardiology progress Note,Progress Note
+Assessment & Plan for today,Yes,CARDIOLOGY PROGRESS NOTE,Progress Note
+REVIEW OF SYSTEMS:,Yes,Cardiology Progress note,Progress Note
+Labs reviewed,Yes,Cardiothoracic & Transplant Surgery Progress Note,Progress Note
+Physical Examination,Yes,Cardio-Thoracic Surgery,CONSULTATION REPORT
+Famiy History,Yes,CARDIOTHORACIC-VASCULAR SURGERY CONSULT NOTE,CONSULTATION REPORT
+History of Present Illness,Yes,CARDIOVASCULAR AND THORACIC SURGERY,Progress Note
+ Home Medications,Yes,CARDIOVASCULAR DIABETES CONSULT H&P,CONSULTATION REPORT
+ASSESSMENT - MEDICINE,Yes,Case Management Progress Note,Progress Note
+TELEMETRY,No,CASE MANAGEMENT PROGRESS NOTE,Progress Note
+operative procedure techniques,Yes,Central Venous Catheter Insertion,OPERATIVE REPORT
+PLAN,Yes,Clinical Documents,OPERATIVE REPORT
+DISPOSITION,Yes,CLINICAL NOTE,OPERATIVE REPORT
+DATE OF PROCEDURE,Yes,Clinical Notes,Progress Note
+Operative Data,Yes,Clinical Notes,OPERATIVE REPORT
+Cath Attending Admission H&P,Yes,Clinical Summary,Progress Note
+Procedure Notes,Yes,"Consentfor,Anesthesia / Moderate Sedation",Anesthesia Reports
+Family History,Yes,Consult,CONSULTATION REPORT
+Chief Complaint,Yes,Consult Note,CONSULTATION REPORT
+Diagnostic results,Yes,Consult Note - Medical-Internal Medicine,CONSULTATION REPORT
+Substance Use History,Yes,Consult Note*-NS - Neurosciences,CONSULTATION REPORT
+Social History,Yes,Consult Notes,CONSULTATION REPORT
+History of Present Illness,Yes,Consultation,CONSULTATION REPORT
+Estimated blood loss,Yes,CONSULTATION,CONSULTATION REPORT
+Hematology,Yes,Consultation,CONSULTATION REPORT
+Hematology Basic - Last 36 hours (20),Yes,Consultation,CONSULTATION REPORT
+Cells,Yes,Consultation,CONSULTATION REPORT
+Leukocycte Data,Yes,Consultation,CONSULTATION REPORT
+Differential,Yes,Consultation,CONSULTATION REPORT
+Morphology,No,Consultation,CONSULTATION REPORT
+Laboratory Data:,Yes,Consultation,CONSULTATION REPORT
+Hematology Basic - Last 36 hours (20),Yes,Consultation,CONSULTATION REPORT
+Urinalysis - Last 36 hours (18),Yes,Consultation,CONSULTATION REPORT
+Lab Results,Yes,Consultation,CONSULTATION REPORT
+Labs,Yes,Consultation,CONSULTATION REPORT
+Results,Yes,Consultation,CONSULTATION REPORT
+Basic Metabolic Panel,Yes,Consultation,CONSULTATION REPORT
+CBC,Yes,Consultation Note,CONSULTATION REPORT
+CBC WITH DIFFERENTIAL,Yes,Consultation Note,CONSULTATION REPORT
+CBC WITHOUT DIFFERENTIAL,Yes,Consultation Note,CONSULTATION REPORT
+Urinalysis,Yes,Consultation Note,CONSULTATION REPORT
+Urinalysis - Last 36 hours (18),Yes,Consultation Note,CONSULTATION REPORT
+Reason for Consultation,Yes,Consultation Notes,CONSULTATION REPORT
+Laboratory Data:,Yes,Consultation Notes,CONSULTATION REPORT
+Hematology Basic - Last 36 hours (20),Yes,Consultation Notes,CONSULTATION REPORT
+Past Surgical History,Yes,CONSULTATION REPORT,CONSULTATION REPORT
+LABORATORY STUDIES:,Yes,CONSULTATION REPORT,CONSULTATION REPORT
+Past Medical History,Yes,Consultations,CONSULTATION REPORT
+Plan,Yes,Consulting physician,CONSULTATION REPORT
+Health Status,Yes,consults,CONSULTATION REPORT
+Assessment,Yes,Consults,CONSULTATION REPORT
+Labs:,Yes,Consults,CONSULTATION REPORT
+LABS / RADIOLOGY :,Yes,Consults,CONSULTATION REPORT
+Recent Labs,Yes,Consults,CONSULTATION REPORT
+ASSESSMENT :,Yes,Consults,CONSULTATION REPORT
+PLAN :,Yes,Consults,CONSULTATION REPORT
+Lab Results,Yes,Consults,CONSULTATION REPORT
+Labs:,Yes,Consults - All Other Notes (continued),CONSULTATION REPORT
+LABS / RADIOLOGY :,Yes,Consults - All Other Notes (continued),CONSULTATION REPORT
+Recent Labs,Yes,Consults - All Other Notes (continued),CONSULTATION REPORT
+ASSESSMENT :,Yes,Consults - All Other Notes (continued),CONSULTATION REPORT
+PLAN :,Yes,Consults - All Other Notes (continued),CONSULTATION REPORT
+Lab Results,Yes,Consults - All Other Notes (continued),CONSULTATION REPORT
+Objective:,Yes,Consults - All Other Notes (continued),CONSULTATION REPORT
+Imaging:,Yes,Consults - All Other Notes (continued),CONSULTATION REPORT
+Admitting HPI,Yes,Cranlofaclal Plastic Surgery Progress Note,Progress Note
+Type of Study,Yes,Critical Care,Progress Note
+Impression and Plan,Yes,Critical Care Consult Note,CONSULTATION REPORT
+SUBJECTIVE/OBJECTIVE,Yes,CRITICAL CARE DAILY NOTE,Progress Note
+Radiology/Imaging last 72 hours,No,Critical Care Note,Progress Note
+Recommendations,Yes,Critical Care Progress Note,Progress Note
+Physical Exam,Yes,Critical Care/ICU Progress Note,Progress Note
+Review / Managemen,Yes,CRITICALCARE PROGRESS NOTE,Progress Note
+operative procedures performed,Yes,CT surgery preop evaluation note,OPERATIVE REPORT
+HOSPITAL MEDICATIONS,Yes,CV DIABETES CONSULT DAILY PROGRESS NOTE,Progress Note
+BMP:,Yes,CVT PROGRESS NOTE:,Progress Note
+LFTS: ,Yes,CVT PROGRESS NOTE:,Progress Note
+Recent pertinent labs:,Yes,CVT PROGRESS NOTE:,Progress Note
+Labs:,Yes,CVT PROGRESS NOTE:,Progress Note
+Coagulation: ,Yes,CVT PROGRESS NOTE:,Progress Note
+SUBJECTIVE,Yes,CVT PROGRESS NOTE:,Progress Note
+OBJECTTIVE,Yes,CVT PROGRESS NOTE:,Progress Note
+Plan,Yes,CVT PROGRESS NOTE:,Progress Note
+Imaging:,Yes,CVT PROGRESS NOTE:,Progress Note
+Labs/Imaging,Yes,DAILY MEDICINE PROGRESS NOTE,Progress Note
+IMAGING,No,Death summary,Discharge Summary
+Results,No,DEPARTMENT OF MEDICINE,CONSULTATION REPORT
+Basic Information,No,Discharge Documentation,Discharge Summary
+Instructions,Yes,DISCHARGE INFORMATION,Discharge Summary
+Current medications,Yes,Discharge Information (continued),Discharge Summary
+FINAL REPORT ,Yes,Discharge Instructions,Discharge Summary
+Admitting HPI,Yes,Discharge Medication List,Discharge Summary
+Narrative Hospital course,Yes,DISCHARGE NOTE,Discharge Summary
+Impression and Plan,Yes,Discharge Planner Note,Discharge Summary
+Disposition,Yes,Discharge Planner Note,Discharge Summary
+General Information,Yes,Discharge Recommendations,Discharge Summary
+Discharge Diagnosis,Yes,Discharge Summaries,Discharge Summary
+Hospital Course,Yes,Discharge Summaries (continued),Discharge Summary
+Consultants,Yes,Discharge Summary,Discharge Summary
+VITAL SIGNS ON THE DAYS OF DISCHARGE,Yes,DISCHARGE SUMMARY,Discharge Summary
+Laboratory Tests,Yes,Discharge Summary,Discharge Summary
+Labs,Yes,Discharge Summary,Discharge Summary
+Admitting HP,Yes,Discharge Summary (continued),Discharge Summary
+ALL DISCHARGE MEDICATIONS,Yes,Discharge summary (inpatient) advanced practice provider-Dis,Discharge Summary
+Plan,Yes,Discharge Summary Note,Discharge Summary
+Procedure,Yes,Discharge Summary Note (continued),Discharge Summary
+Assessment,Yes,Discharge Summary:,Discharge Summary
+home medications,Yes,ED Note-Physician,Emergency provider report
+diagnostics,Yes,ED Notes,Emergency provider report
+CBC with DIFF,Yes,ED Notes,Emergency provider report
+medical dicision making,Yes,ED PATIENT DISCHARGE INFORMATION,Emergency provider report
+Lab Results,Yes,ED Physician Documentation,Emergency provider report
+allergies,Yes,ED Provider Note,Emergency provider report
+laboratory,Yes,ED Provider Note,Emergency provider report
+Lab Results:,Yes,ED Provider Note,Emergency provider report
+CBC AND DIFFERENTIAL - Abnormal,Yes,ED Provider Note,Emergency provider report
+assessment/plan,Yes,ED Provider Note (,Emergency provider report
+current medications,Yes,ED Provider Notes,Emergency provider report
+mode of arrival,Yes,ED Provider Notes - ED Notes,Emergency provider report
+plan,Yes,ED Record,Emergency provider report
+labs,Yes,ED Records,Emergency provider report
+assessment,Yes,ED to Hosp-Admission,Emergency provider report
+history of present illness,Yes,Emergency Department Chart,Emergency provider report
+Results,Yes,Emergency Department Chart,Emergency provider report
+chief complaint,Yes,Emergency department reports,Emergency provider report
+Review of systems,Yes,Emergency Department Reports,Emergency provider report
+physical exam,Yes,Emergency Documentation,Emergency provider report
+Ed course,Yes,Emergency Documentations,Emergency provider report
+past medical history,Yes,Emergency Medicine,Emergency provider report
+present medical history,Yes,EMERGENCY PROVIDER REPORT,Emergency provider report
+past surgical history,Yes,Emergency provider report,Emergency provider report
+social history,Yes,Emergency Report,Emergency provider report
+HISTORY OF PRESENT ILLNESS,Yes,EMERGENCY ROOM RECORD,Emergency provider report
+REVIEW OF SYSTEMS,Yes,EMERGENCY ROOM RECORD,Emergency provider report
+PAST HISTORY,No,EMERGENCY ROOM RECORD,Emergency provider report
+PAST HISTORY,No,EMERGENCY ROOM RECORD,Emergency provider report
+PHYSICAL EXAM,Yes,EMERGENCY ROOM RECORD,Emergency provider report
+ADDITIONAL NOTES,Yes,EMERGENCY ROOM RECORD,Emergency provider report
+"LABS, X-RAYS, AND EKG",Yes,EMERGENCY ROOM RECORD,Emergency provider report
+Laboratory Tests:,Yes,EMERGENCY ROOM RECORD,Emergency provider report
+Urine Microscopic Exam:,No,EMERGENCY ROOM RECORD,Emergency provider report
+CMP: (COLL: 06/07/2021 23:55),Yes,EMERGENCY ROOM RECORD,Emergency provider report
+Final Results,Yes,EMERGENCY ROOM RECORD,Emergency provider report
+Results,No,Emergency/Trauma Documentation,Emergency provider report
+impression,Yes,Emergency/Urgent Care,Emergency provider report
+disposition,Yes,Emergency/Urgent Care,Emergency provider report
+ed procedures,Yes,Emergency/Urgent Care,Emergency provider report
+transfer note,No,Emergency/Urgent Care,Emergency provider report
+vital signs,No,Emergency/Urgent Care,Emergency provider report
+objective,Yes,Emergency/Urgent Care,Emergency provider report
+Free text HPI notes,Yes,Emergency/Urgent Care,Emergency provider report
+"Diagnosis, Assessment &  Plan",Yes,Emergency/Urgent Care,Emergency provider report
+Social & Psychosocial Habits,No,Emergency/Urgent Care,Emergency provider report
+Social & Psychosocial Habit,No,Emergency/Urgent Care,Emergency provider report
+nterpretation & Diagnostics,Yes,Emergency/Urgent Care,Emergency provider report
+ Past Medical/ Family/ Social History,Yes,Emergency/Urgent Care,Emergency provider report
+discharge/Care Plan,Yes,Emergency/Urgent Care,Emergency provider report
+ros,Yes,Emergency/Urgent Care,Emergency provider report
+Free Text Risk Notes,Yes,Emergency/Urgent Care,Emergency provider report
+Free Text PE Notes,Yes,Emergency/Urgent Care,Emergency provider report
+Re-Evaluation & MDM,Yes,Emergency/Urgent Care,Emergency provider report
+Interpretation & Diagnostics,Yes,Emergency/Urgent Care,Emergency provider report
+Lab & Imaging Statement,Yes,Emergency/Urgent Care,Emergency provider report
+Re-Evaluation& MDM,Yes,Emergency/Urgent Care,Emergency provider report
+Patient Discharge & Departure,Yes,Emergency/Urgent Care,Emergency provider report
+ROS Statements,Yes,Emergency/Urgent Care,Emergency provider report
+Free Text PE Note,Yes,Emergency/Urgent Care,Emergency provider report
+HPI-Stroke/CVA,Yes,Emergency/Urgent Care,Emergency provider report
+basic information,No,Emergency/Urgent Care,Emergency provider report
+General,Yes,Emergency/Urgent Care,Emergency provider report
+Medical decision making,Yes,Emergency/Urgent Care,Emergency provider report
+Ddischarge Summary,Yes,Emergency/Urgent Care,Emergency provider report
+Medication Reconciliation,Yes,Emergency/Urgent Care,Emergency provider report
+Procedure,Yes,Emergency/Urgent Care,Emergency provider report
+General Assessment,Yes,Emergency/Urgent Care,Emergency provider report
+Diagnoses,Yes,Emergency/Urgent Care,Emergency provider report
+ED Triage Allergies/Meds ,Yes,Emergency/Urgent Care,Emergency provider report
+Medication List,Yes,Emergency/Urgent Care,Emergency provider report
+History pf present Illness,Yes,Emergency/Urgent Care,Emergency provider report
+Health Status,Yes,Emergency/Urgent Care,Emergency provider report
+Past Medical/Family/Social history,Yes,Emergency/Urgent Care,Emergency provider report
+Notes,Yes,Emergency/Urgent Care,Emergency provider report
+ReExamination/ Reevaluation,Yes,Emergency/Urgent Care,Emergency provider report
+Impression and Plan,Yes,Emergency/Urgent Care,Emergency provider report
+Subjective Nursing Assessment,Yes,Emergency/Urgent Care,Emergency provider report
+Emergency Department Orders,Yes,Emergency/Urgent Care,Emergency provider report
+Procedures,Yes,Emergency/Urgent Care,Emergency provider report
+CRITICAL CARE,Yes,Emergency/Urgent Care,Emergency provider report
+Laboratory Results,Yes,Emergency/Urgent Care,Emergency provider report
+Medications,Yes,Emergency/Urgent Care,Emergency provider report
+Past Medical/ Family/ Social History,Yes,Emergency/Urgent Care,Emergency provider report
+Surgical history,Yes,Emergency/Urgent Care,Emergency provider report
+Impression/plan,Yes,Emergency/Urgent Care,Emergency provider report
+BASIC INFO,Yes,Emergency/Urgent Care,Emergency provider report
+Physical Exam/Objective ,Yes,Emergency/Urgent Care,Emergency provider report
+Clinical Scores,Yes,Emergency/Urgent Care,Emergency provider report
+Chronic Problem List,Yes,Emergency/Urgent Care,Emergency provider report
+Procedure/Surgical History,Yes,Emergency/Urgent Care,Emergency provider report
+Physical Exam/Objective,Yes,Emergency/Urgent Care,Emergency provider report
+Medication Administration,Yes,Emergency/Urgent Care,Emergency provider report
+Family History,Yes,Emergency/Urgent Care,Emergency provider report
+Diagnostic Results,Yes,Emergency/Urgent Care,Emergency provider report
+HPI,Yes,Emergency/Urgent Care,Emergency provider report
+Free TextHPI Notes,Yes,Emergency/Urgent Care,Emergency provider report
+Additional Review of Systems,Yes,Emergency/Urgent Care,Emergency provider report
+Past Medical History - Adult,Yes,Emergency/Urgent Care,Emergency provider report
+Past Medical History:,Yes,Emergency/Urgent Care,Emergency provider report
+Focused PE,Yes,Emergency/Urgent Care,Emergency provider report
+HPI-General Illness,Yes,Emergency/Urgent Care,Emergency provider report
+HPI-General Illness Free Text HPI Notes,Yes,Emergency/Urgent Care,Emergency provider report
+ Allergies,Yes,Emergency/Urgent Care,Emergency provider report
+ Chief Complaint,Yes,Emergency/Urgent Care,Emergency provider report
+INITIAL MEDICAL SCREENING,Yes,Emergency/Urgent Care,Emergency provider report
+ Impression and Plan,Yes,Emergency/Urgent Care,Emergency provider report
+Physical Examination,Yes,Emergency/Urgent Care,Emergency provider report
+ History of Present Illness,Yes,Emergency/Urgent Care,Emergency provider report
+ Physical Examination,Yes,Emergency/Urgent Care,Emergency provider report
+ Medical Decision Making,Yes,Emergency/Urgent Care,Emergency provider report
+ Reexamination/ Reevaluation,Yes,Emergency/Urgent Care,Emergency provider report
+Lab results: Laboratory,Yes,Emergency/Urgent Care,Emergency provider report
+Past Medical/Surgical History,Yes,Encounter Details,Progress Note
+Recommendations,Yes,EP Consultation Note,CONSULTATION REPORT
+Diagnosis,Yes,EP Consultation Note,CONSULTATION REPORT
+Interventions,Yes,EP Consultation Note,CONSULTATION REPORT
+Monitoring and Evaluation,Yes,EP Consultation Note,CONSULTATION REPORT
+Result,No,EP Consultation Note,CONSULTATION REPORT
+Basic information,No,EP Consultation Note,CONSULTATION REPORT
+Current medications,Yes,EP Consultation Note,CONSULTATION REPORT
+Intake and Output,Yes,EP Consultation Note,CONSULTATION REPORT
+Review / Management,Yes,EP Consultation Note,CONSULTATION REPORT
+procedure,Yes,EP Consultation Note,CONSULTATION REPORT
+Procedure/surgical history,Yes,EP Consultation Note,CONSULTATION REPORT
+Code Status,No,EP Consultation Note,CONSULTATION REPORT
+GENERAL,Yes,EP Consultation Note,CONSULTATION REPORT
+Laboratory Data,No,EP Consultation Note,CONSULTATION REPORT
+CT Abd/Pelvis w/o Contras,No,EP Consultation Note,CONSULTATION REPORT
+CT Thorax w/ Contrast,No,EP Consultation Note,CONSULTATION REPORT
+IMAGING,No,EP Consultation Note,CONSULTATION REPORT
+IMPRESSION,Yes,EP Consultation Note,CONSULTATION REPORT
+RECOMMENDATION,Yes,EP Consultation Note,CONSULTATION REPORT
+CONCLUSIONS,Yes,EP Consultation Note,CONSULTATION REPORT
+DIAGNOSTIC DATA,Yes,EP Consultation Note,CONSULTATION REPORT
+Reason for Consultations,Yes,EP Consultation Note,CONSULTATION REPORT
+Procedures/surgical history,Yes,EP Consultation Note,CONSULTATION REPORT
+SUBJECTIVE,Yes,EP Consultation Note,CONSULTATION REPORT
+PROBLEM LIST,Yes,EP Consultation Note,CONSULTATION REPORT
+PROPHYLAXIS,No,EP Consultation Note,CONSULTATION REPORT
+PHYSICIAN COVID ASSESSMENT,Yes,EP Consultation Note,CONSULTATION REPORT
+ DISPOSITION,Yes,EP Consultation Note,CONSULTATION REPORT
+OBJECTIVE,Yes,EP Consultation Note,CONSULTATION REPORT
+ LABS,No,EP Consultation Note,CONSULTATION REPORT
+RADIOLOGY,No,EP Consultation Note,CONSULTATION REPORT
+DISPOSITION,Yes,EP Consultation Note,CONSULTATION REPORT
+Home Medications,Yes,EP Consultation Note,CONSULTATION REPORT
+Hospital Medications,Yes,EP Consultation Note,CONSULTATION REPORT
+Past History,Yes,EP Consultation Note,CONSULTATION REPORT
+Diagnostics,Yes,EP Consultation Note,CONSULTATION REPORT
+IDENTIFYING DATA,Yes,EP Consultation Note,CONSULTATION REPORT
+PAST MEDICAL AND SURGICAL HISTORY,Yes,EP Consultation Note,CONSULTATION REPORT
+PSYCHO SOCIAL HISTORY,Yes,EP Consultation Note,CONSULTATION REPORT
+Reason for consult,Yes,EP Consultation Note,CONSULTATION REPORT
+"Diagnosis, Assessment & Plan",Yes,EP Consultation Note,CONSULTATION REPORT
+NARRATIVE,Yes,EP Consultation Note,CONSULTATION REPORT
+PMH,Yes,EP Consultation Note,CONSULTATION REPORT
+History - Adult longitudinal,Yes,EP Consultation Note,CONSULTATION REPORT
+MAGING AND LABORATORY DATA,Yes,EP Consultation Note,CONSULTATION REPORT
+REVIEW OF SYSTEM,Yes,EP Consultation Note,CONSULTATION REPORT
+DIAGNOSTIC STUDIES,Yes,EP Consultation Note,CONSULTATION REPORT
+Home Medications (2) Active,Yes,EP Consultation Note,CONSULTATION REPORT
+CHIEFCOMPLAINT,Yes,EP Consultation Note,CONSULTATION REPORT
+HISTORY OFPRESENT ILLNESS,Yes,EP Consultation Note,CONSULTATION REPORT
+PASTMEDICAL HISTORY,Yes,EP Consultation Note,CONSULTATION REPORT
+LABORATORY EXAMINATION,Yes,EP Consultation Note,CONSULTATION REPORT
+Historyof Present Illness,Yes,EP Consultation Note,CONSULTATION REPORT
+Review /Management,Yes,EP Consultation Note,CONSULTATION REPORT
+CONSULTING PHYSICIAN,Yes,EP Consultation Note,CONSULTATION REPORT
+OPERATIVE NOTE,Yes,EP Lab Intraoperative Record,OPERATIVE REPORT
+POST PROCEDURAL DIAGNOSIS,Yes,FGTBA Left ARTERIAL CATHETERIZATION,OPERATIVE REPORT
+Substance History ,Yes,FMC Anesthesia Record,Anesthesia Reports
+PRIMARY DISCHARGE DIAGNOSIS,Yes,FMC Discharge Summary,Discharge Summary
+Impression/Plan,Yes,FMC H&P,History & Physical
+Specimens Removed,Yes,FMC Operative Report,OPERATIVE REPORT
+Allergies,Yes,FMCH FOLLOW UP CONSULTATION NOTE,CONSULTATION REPORT
+Hematology,Yes,General Laboratory,LAB
+Urinalysis Cells,Yes,General Laboratory,LAB
+Vital Signs,Yes,General Medicine Medicine Progress Note,Progress Note
+MEDICATIONS,Yes,General Procedures,OPERATIVE REPORT
+PHYSICAL EXAM:,Yes,General Progress/ Information Relay Note,Progress Note
+Past Medical History,Yes,H&P,History & Physical
+HPI,Yes,H&P - Encounter Notes,History & Physical
+ROS,Yes,H&P - Encounter Notes,History & Physical
+Present Illness,Yes,H&P - Inpatient Notes (,History & Physical
+Past Surgical History,Yes,H&P (continued),History & Physical
+Code Status,No,H&P Notes,History & Physical
+Allergies,Yes,H&P Notes (continued),History & Physical
+Home Medications,Yes,HISTORY & PHYSICAL,History & Physical
+Physical Exam,Yes,HISTORY & PHYSICAL,History & Physical
+IMMEDIATE PREOPERATIVE REASSESSMENT,Yes,History & Physical - Adul,History & Physical
+Laboratory Data,Yes,History & Physical:,History & Physical
+Family History,Yes,History & Physicals,History & Physical
+Social History,Yes,History & Physicals (continued),History & Physical
+Medications,Yes,HISTORY AND PHYSICA,History & Physical
+Review of Systems,Yes,History and Physical,History & Physical
+Assessment/Plan,Yes,History and Physical,History & Physical
+Laboratory Tests,Yes,History and Physical,History & Physical
+Labs:,Yes,History and Physical,History & Physical
+Recent Labs,Yes,History and Physical,History & Physical
+Results review: Lab results,Yes,History and Physical,History & Physical
+PMH,Yes,History and Physical Notes,History & Physical
+History of Present Illness,Yes,History and Physical Reports,History & Physical
+Physical Examination,Yes,History and Physical/Admission Notes,History & Physical
+Laboratory Data:,Yes,History and Physical/Admission Notes,History & Physical
+Hematology Basic - Last 36 hours (20),Yes,History and Physical/Admission Notes,History & Physical
+Chief Complaint,Yes,History and physicals,History & Physical
+Narrative Hospital course,Yes,HIT - IM Progress Note,Progress Note
+Procedures,Yes,HOSPITAL DISCHARGE SUMMARY,Discharge Summary
+DISCHARGE DATE,Yes,Hospitalist Discharge Summary,Discharge Summary
+Medical History,Yes,Hospitalist History &physical,History & Physical
+Surgical History,Yes,Hospitalist History &physical,History & Physical
+Family Medical History,Yes,Hospitalist History &physical,History & Physical
+Hospital Medications,Yes,Hospitalist History &physical,History & Physical
+Medications Prior To Hospitalization,Yes,Hospitalist History &physical,History & Physical
+Brief Historical Review,Yes,Hospitalist History &physical,History & Physical
+Procedure / Operative Data,Yes,Hospitalist History &physical,History & Physical
+CONSULTING PHYSICIAN,Yes,Hospitalist History &physical,History & Physical
+REASON FOR CONSULTATION,Yes,Hospitalist History &physical,History & Physical
+Labs,No,Hospitalist History &physical,History & Physical
+Imaging,No,Hospitalist History &physical,History & Physical
+Vitals,Yes,Hospitalist History &physical,History & Physical
+REASON FOR CONSULT,Yes,Hospitalist History &physical,History & Physical
+CARDIOLOGY ATTENDING,Yes,Hospitalist History &physical,History & Physical
+Brief HPI,Yes,Hospitalist History &physical,History & Physical
+Recent Labs,No,Hospitalist History &physical,History & Physical
+ASSESSMENT/ PLAN,Yes,Hospitalist History &physical,History & Physical
+Objective,Yes,Hospitalist History &physical,History & Physical
+PRE-PROCEDURE ATTESTATION STATEMENT,No,Hospitalist History &physical,History & Physical
+PREVIOUS CARDIAC TESTING,No,Hospitalist History &physical,History & Physical
+RECOMMENDATIONS,Yes,Hospitalist History &physical,History & Physical
+Basic Information,No,Hospitalist History &physical,History & Physical
+Problems,Yes,Hospitalist History &physical,History & Physical
+Consultants,Yes,Hospitalist History &physical,History & Physical
+Health Status,Yes,Hospitalist History &physical,History & Physical
+Problem list,Yes,Hospitalist History &physical,History & Physical
+Review I Managemen,Yes,Hospitalist History &physical,History & Physical
+impression and Plan,Yes,Hospitalist History &physical,History & Physical
+Completed Action List,Yes,Hospitalist History &physical,History & Physical
+Review! Management,Yes,Hospitalist History &physical,History & Physical
+MEDICATIONS PRIOR TO HOSPITAL ADMISSION,Yes,Hospitalist History &physical,History & Physical
+LABS/DIAGNOSTIC TESTS,No,Hospitalist History &physical,History & Physical
+History information,Yes,Hospitalist History &physical,History & Physical
+Reason for History and Physical,Yes,Hospitalist History &physical,History & Physical
+Prior to Admission medications,Yes,Hospitalist History &physical,History & Physical
+ICU Checklist,No,Hospitalist History &physical,History & Physical
+Imaging/Procedures,Yes,Hospitalist History &physical,History & Physical
+LABS / RADIOLOGY,Yes,Hospitalist History &physical,History & Physical
+PSH,Yes,Hospitalist History &physical,History & Physical
+problem List/Past Medical History,Yes,Hospitalist History &physical,History & Physical
+Procedure/Surgical History,Yes,Hospitalist History &physical,History & Physical
+Procedure/ Operative Data,Yes,Hospitalist History &physical,History & Physical
+Vital Signs,Yes,Hospitalist History &physical,History & Physical
+Procedure/Operative Data,Yes,Hospitalist History &physical,History & Physical
+Radiological images,Yes,Hospitalist History &physical,History & Physical
+Visit Information,Yes,Hospitalist History &physical,History & Physical
+Histories,Yes,Hospitalist History &physical,History & Physical
+Review / Management,Yes,Hospitalist History &physical,History & Physical
+Past Medical History/Problem List,Yes,Hospitalist History &physical,History & Physical
+Allergy,Yes,Hospitalist History &physical,History & Physical
+PREOPERATIVE DIAGNOSES,Yes,Hospitalist History &physical,History & Physical
+POSTOPERATIVE DIAGNOSES,Yes,Hospitalist History &physical,History & Physical
+PROCEDURE PERFORMED,Yes,Hospitalist History &physical,History & Physical
+DESCRIPTION OF PROCEDURE,Yes,Hospitalist History &physical,History & Physical
+Allergies/Adverse Allergies/Adverse Reactions,Yes,Hospitalist History &physical,History & Physical
+Past Past Medical/Surgical Medical/Surgical History,Yes,Hospitalist History &physical,History & Physical
+Exam,Yes,Hospitalist History &physical,History & Physical
+History,Yes,Hospitalist History &physical,History & Physical
+ASSESSMENT AND PLAN,Yes,Hospitalist History &physical,History & Physical
+Informed Consent,No,Hospitalist History &physical,History & Physical
+Hospital course,Yes,Hospitalist History &physical,History & Physical
+Disposition,Yes,Hospitalist History &physical,History & Physical
+Past History Review,Yes,Hospitalist History &physical,History & Physical
+TESTING,No,Hospitalist History &physical,History & Physical
+Assessment/Orders,Yes,Hospitalist History &physical,History & Physical
+Discontinued Medications,Yes,Hospitalist History &physical,History & Physical
+Assessment & Plan,Yes,Hospitalist History &physical,History & Physical
+Procedure,Yes,Hospitalist History &physical,History & Physical
+Date of Service,Yes,Hospitalist History &physical,History & Physical
+Intake and Output,Yes,Hospitalist History &physical,History & Physical
+Lab Results,Yes,Hospitalist History &physical,History & Physical
+Review of system,Yes,Hospitalist History &physical,History & Physical
+REASON FOR ADMISSION,Yes,Hospitalist History &physical,History & Physical
+EXAMINATION,Yes,Hospitalist History &physical,History & Physical
+IMPRESSION,Yes,Hospitalist History &physical,History & Physical
+physical Examinations,Yes,Hospitalist History &physical,History & Physical
+Diagnostic data,Yes,Hospitalist History &physical,History & Physical
+Data Review,Yes,Hospitalist History &physical,History & Physical
+Diagnostic Results,Yes,Hospitalist History &physical,History & Physical
+General HPI,Yes,Hospitalist History &physical,History & Physical
+trauma Information,Yes,Hospitalist History &physical,History & Physical
+Primary Survey,No,Hospitalist History &physical,History & Physical
+Disability Assessment,No,Hospitalist History &physical,History & Physical
+Review of Systems/ Patient History,Yes,Hospitalist History &physical,History & Physical
+Secondary Survey Physical Exam,Yes,Hospitalist History &physical,History & Physical
+Results and Procedures Interpretation,No,Hospitalist History &physical,History & Physical
+CURRENT MEDICATIONS,Yes,Hospitalist History &physical,History & Physical
+RECOMMENDATION,Yes,Hospitalist History &physical,History & Physical
+problem ist/past medical history,Yes,Hospitalist History &physical,History & Physical
+Reason for Angiogram,Yes,Hospitalist History &physical,History & Physical
+RADIOGRAPHIC STUDIES,No,Hospitalist History &physical,History & Physical
+SocialWork Assessment,No,Hospitalist History &physical,History & Physical
+Assessment Data,Yes,Hospitalist History &physical,History & Physical
+Initial Discharge Planning,No,Hospitalist History &physical,History & Physical
+ADMISSION DIAGNOSIS,Yes,Hospitalist History &physical,History & Physical
+DISCHARGE CONDITION,Yes,Hospitalist History &physical,History & Physical
+DISCHARGE MEDICATIONS,Yes,Hospitalist History &physical,History & Physical
+Social History summary,Yes,Hospitalist History &physical,History & Physical
+PastMedical History/Problem List,Yes,Hospitalist History &physical,History & Physical
+Social,Yes,Hospitalist History &physical,History & Physical
+Family,Yes,Hospitalist History &physical,History & Physical
+MEDS,Yes,Hospitalist History &physical,History & Physical
+FAM Hx,Yes,Hospitalist History &physical,History & Physical
+SOC Hx,Yes,Hospitalist History &physical,History & Physical
+DIAGNOSTIC STUDIES,No,Hospitalist History &physical,History & Physical
+ADMISSION CHECKLIST,No,Hospitalist History &physical,History & Physical
+ORDERS,Yes,Hospitalist History &physical,History & Physical
+Diagnosis and Procedure Summary,Yes,Hospitalist History &physical,History & Physical
+Known Family History of,Yes,Hospitalist History &physical,History & Physical
+Impression & Plan Summary,Yes,Hospitalist History &physical,History & Physical
+PMHx,Yes,Hospitalist History &physical,History & Physical
+Social Hx,Yes,Hospitalist History &physical,History & Physical
+Data,Yes,Hospitalist History &physical,History & Physical
+REASON FOR HOSPITALIZATION,Yes,Hospitalist History &physical,History & Physical
+ALLERGIES AND INTOLERANCES,Yes,Hospitalist History &physical,History & Physical
+History of Present Illness/Subjective,Yes,Hospitalist History &physical,History & Physical
+Chronic Problem List,Yes,Hospitalist History &physical,History & Physical
+Physical Exam/Objective,Yes,Hospitalist History &physical,History & Physical
+Results,Yes,Hospitalist History &physical,History & Physical
+CC,Yes,Hospitalist History &physical,History & Physical
+Past History,Yes,Hospitalist History &physical,History & Physical
+Diagnostics,Yes,Hospitalist History &physical,History & Physical
+Secondary Survey,Yes,Hospitalist History &physical,History & Physical
+Attending Assessment and Plan Attestation,Yes,Hospitalist History &physical,History & Physical
+PERSONAL AND SOCIAL HISTORY,Yes,Hospitalist History &physical,History & Physical
+SYSTEM REVIEW,Yes,Hospitalist History &physical,History & Physical
+Free Text HPI Notes,Yes,Hospitalist History &physical,History & Physical
+Medication/Allergy,Yes,Hospitalist History &physical,History & Physical
+"Diagnosis, Assessment & Plan",Yes,Hospitalist History &physical,History & Physical
+past Medical & surgical hx,Yes,Hospitalist History &physical,History & Physical
+"Diagnosis, Assessment& Plan",Yes,Hospitalist History &physical,History & Physical
+Free Text A&P,Yes,Hospitalist History &physical,History & Physical
+Allergies/Intolerances,Yes,Hospitalist History &physical,History & Physical
+Objective Data,Yes,Hospitalist History &physical,History & Physical
+Risk factors,Yes,Hospitalist History &physical,History & Physical
+General exam,Yes,Hospitalist History &physical,History & Physical
+Ortho Exam,Yes,Hospitalist History &physical,History & Physical
+Orders Added,No,Hospitalist History &physical,History & Physical
+Assessment / Plan,Yes,Hospitalist History &physical,History & Physical
+Home Medications Active,Yes,Hospitalist History &physical,History & Physical
+Free Text Dx A&P Notes,Yes,Hospitalist History &physical,History & Physical
+Medication Allergies,Yes,Hospitalist History& Physical,History & Physical
+Review /Management,Yes,Hospitalist progress note,Progress Note
+INDICATIONS FOR PROCEDURE,Yes,ICD Implant Report,OPERATIVE REPORT
+"Studies, Labs, and Radiology:",Yes,ICU RESIDENT PROGRESS AND TRANSFER NOTE,Progress Note
+"Studies, Labs, and Radiology:",Yes,ICU RESIDENT PROGRESS NOTE,Progress Note
+Psychiatric History,Yes,INITIAL CONSULTATION NOTE,CONSULTATION REPORT
+Review of Systems,Yes,Initial Consultation/History and Physical,CONSULTATION REPORT
+HPI,Yes,Inpatient Cardiac Rehab Consult,CONSULTATION REPORT
+Histories,Yes,INPATIENT CARDIOLOGY CONSULT,CONSULTATION REPORT
+problem list/Past Medical History,Yes,INPATIENT CARDIOLOGY CONSULT,CONSULTATION REPORT
+Radiology,No,Inpatient Discharge Instructions,Discharge Summary
+Current Medications,Yes,Intensivist Progress Note,Progress Note
+Chief Complaint,Yes,Interim Summary Note / Event Note,Progress Note
+ Reason for Consultation,Yes,Interventional Cardiology Consult,CONSULTATION REPORT
+PROCEDURE,Yes,Interventional Neuroradiology,OPERATIVE REPORT
+NAME OF SURGEON,Yes,Intra operative Neurophysiological MonitoringReport,OPERATIVE REPORT
+Summary of Findings,Yes,Intraoperative Notes,OPERATIVE REPORT
+PRIMARY SURGEON,Yes,Invasive Cardiology Procedures,OPERATIVE REPORT
+CBC and Automated Differential w/reflex [216506313] (Abnormal),Yes,Lab - All Results,LAB
+Urinalysis [216129122] (Abnormal),Yes,Lab - All Results,LAB
+CBC and Automated Differential w/reflex [216506313] (Abnormal),Yes,Lab - All Results (continued),LAB
+Urinalysis [216129122] (Abnormal),Yes,Lab - All Results (continued),LAB
+HEMATOLOGY,Yes,LABORATORY,LAB
+URINALYSIS,Yes,LABORATORY,LAB
+RESPIRATORY,Yes,LABORATORY,LAB
+COAGULATION,Yes,LABORATORY,LAB
+DESCRIPTION OF PROCEDURE,Yes,Main EP Report,OPERATIVE REPORT
+Physical Examination:,Yes,Medical Progress Note,Progress Note
+Hemogram,Yes,Medical Record,Medical Record
+URINALYSIS,No,Medical Record,Medical Record
+MOST RECENT LABS ON DAY OF DISCHARGE,No,MEDICATION DISCHARGE SUMMARY,Discharge Summary
+History,Yes,Multidisciplinary Progress Notes,Progress Note
+Disposition,Yes,Neuro ICU Progress Not,Progress Note
+Impression and Plan,Yes,Neuro ICU Progress Note,Progress Note
+Infectious,Yes,Neuro ICU Progress Note,Progress Note
+Results,Yes,Neuro ICU Progress Note,Progress Note
+Laboratory Data,Yes,Neuro ICU Progress Notes,Progress Note
+Infectious,Yes,Neuro ICU Progress Notes,Progress Note
+Results,Yes,Neuro ICU Progress Notes,Progress Note
+Home Medications,Yes,Neuro Medical Progress Note,Progress Note
+Infectious,Yes,Neuro Medical Progress Note,Progress Note
+Assessment/Plan,Yes,Neuro Medical Progress Note,Progress Note
+Vitals,No,NEUROCRITICAL CARE,Progress Note
+Anesthesia,Yes,Neuroendovascular Brief Operative Note,OPERATIVE REPORT
+STATEMENT OF TECHNIQUE,Yes,Neurosurgery Bedside Procedure Note,OPERATIVE REPORT
+Chief Complaint/Proposed Procedures,Yes,NEUROSURGERY HISTORY AND PHYSICAL,History & Physical
+Allergies,Yes,Neurosurgery ICU Progress Note,Progress Note
+Assessment/Plan,Yes,NEUROSURGICAL PROGRESS NOTE,Progress Note
+TRIAGE,Yes,Nurse's Clinical Report,Progress Note
+EMS Treatment PTA:,Yes,Nurse's Clinical Report,Progress Note
+SEPSIS SCREEN:,Yes,Nurse's Clinical Report,Progress Note
+GLASGOW COMA SCORE:,Yes,Nurse's Clinical Report,Progress Note
+Chief Complaint:,Yes,Nurse's Clinical Report,Progress Note
+Medications:,Yes,Nurse's Clinical Report,Progress Note
+PROBLEMS:,Yes,Nurse's Clinical Report,Progress Note
+ADDITIONAL SURGERIES:,Yes,Nurse's Clinical Report,Progress Note
+History,Yes,Nurse's Clinical Report,Progress Note
+PHYSICAL ASSESSMENT,Yes,Nurse's Clinical Report,Progress Note
+NURSING PROGRESS NOTES,Yes,Nurse's Clinical Report,Progress Note
+DISPOSITION / DISCHARGE,Yes,Nurse's Clinical Report,Progress Note
+Lab Results,Yes,Nursing Bedside Report,Progress Note
+Cardiology Results:,Yes,Office Visit Report,MISC
+Surgeon(s),Yes,Op Note,OPERATIVE REPORT
+PROCEDURE IN DETAIl,Yes,Op Note - Encounter Notes,OPERATIVE REPORT
+POSTERIOR OPERATIVE PROCEDURE,Yes,Op/proc Report and OR notes,OPERATIVE REPORT
+Pre-Op Diagnosis,Yes,Op/Proc Report and OR Notes Only,OPERATIVE REPORT
+Post-Op Diagnosis,Yes,OPERATING ROOM/SURGICAL REPORT,OPERATIVE REPORT
+SURGICAL PROCEDURE(S) PERFORMED,Yes,Operative Note,OPERATIVE REPORT
+POSTOPERATIVE DIAGNOSIS,Yes,Operative Notes,OPERATIVE REPORT
+INDICATIONS,Yes,Operative Notes nd Reports,OPERATIVE REPORT
+Operation,Yes,Operative Procedure,OPERATIVE REPORT
+ecommendation,Yes,Operative Procedure,OPERATIVE REPORT
+Assistant,Yes,Operative Procedure,OPERATIVE REPORT
+postoperative plan,Yes,Operative Procedure,OPERATIVE REPORT
+Pre-procedure diagnosis,Yes,Operative Procedure,OPERATIVE REPORT
+Post-procedure diagnosis,Yes,Operative Procedure,OPERATIVE REPORT
+Procedures performed,Yes,Operative Procedure,OPERATIVE REPORT
+IMPRESSIONS,Yes,Operative Procedure,OPERATIVE REPORT
+RECOMMENDATIONS,Yes,Operative Procedure,OPERATIVE REPORT
+Diagnosis,Yes,Operative Procedure,OPERATIVE REPORT
+ANESTHESIOLOGIST,Yes,Operative Procedure,OPERATIVE REPORT
+Classification,Yes,Operative Procedure,OPERATIVE REPORT
+Pre-ProcedureDiagnosis,Yes,Operative Procedure,OPERATIVE REPORT
+Coronary Anatomy,Yes,Operative Procedure,OPERATIVE REPORT
+Post Procedure Findings,Yes,Operative Procedure,OPERATIVE REPORT
+INCISION,Yes,Operative Procedure,OPERATIVE REPORT
+INDICATIONS FOR OPERATION,Yes,Operative Procedure,OPERATIVE REPORT
+Physical Therapy Daily Note,Yes,Operative Procedure,OPERATIVE REPORT
+FINDINGS AT SURGERY,Yes,Operative Procedure,OPERATIVE REPORT
+ESTIMATED BLOOD LOS,Yes,Operative Procedure,OPERATIVE REPORT
+Procedural details,Yes,Operative Procedure,OPERATIVE REPORT
+Technique,Yes,Operative Procedure,OPERATIVE REPORT
+Procedure Detail,Yes,Operative Procedure,OPERATIVE REPORT
+Objective,Yes,Operative Procedure,OPERATIVE REPORT
+Assessment and Plan,Yes,Operative Procedure,OPERATIVE REPORT
+Technical Procedures Ilsted,Yes,Operative Procedure,OPERATIVE REPORT
+Gross Description,Yes,Operative Procedure,OPERATIVE REPORT
+Description of Procedure(,Yes,Operative Procedure,OPERATIVE REPORT
+indications for the procedure,Yes,Operative Procedure,OPERATIVE REPORT
+PREOPERATIVE DIAGNOSIS (ES),Yes,Operative Procedure,OPERATIVE REPORT
+PROCEDURE (S) PERFORMED,Yes,Operative Procedure,OPERATIVE REPORT
+POSTOPERATIVE DIAGNOSIS (ES),Yes,Operative Procedure,OPERATIVE REPORT
+SPECIMEN (S),Yes,Operative Procedure,OPERATIVE REPORT
+preoperative report,Yes,Operative Procedure,OPERATIVE REPORT
+post operative report,Yes,Operative Procedure,OPERATIVE REPORT
+Drains,Yes,Operative Procedure,OPERATIVE REPORT
+Indication for procedure,Yes,Operative Procedure,OPERATIVE REPORT
+Discription procedure,Yes,Operative Procedure,OPERATIVE REPORT
+General Information,Yes,Operative Procedure,OPERATIVE REPORT
+Case Tracking Events,Yes,Operative Procedure,OPERATIVE REPORT
+Event Tracking,Yes,Operative Procedure,OPERATIVE REPORT
+Panel Information,Yes,Operative Procedure,OPERATIVE REPORT
+Surgeons,Yes,Operative Procedure,OPERATIVE REPORT
+Staff,Yes,Operative Procedure,OPERATIVE REPORT
+Anesthesia Staff,Yes,Operative Procedure,OPERATIVE REPORT
+Questionnaire Data,Yes,Operative Procedure,OPERATIVE REPORT
+Patient Preparation,Yes,Operative Procedure,OPERATIVE REPORT
+Skin Condition,Yes,Operative Procedure,OPERATIVE REPORT
+Handoff Documentation,Yes,Operative Procedure,OPERATIVE REPORT
+Specimens,Yes,Operative Procedure,OPERATIVE REPORT
+Other Equipment,Yes,Operative Procedure,OPERATIVE REPORT
+Electrosurgery Devices,Yes,Operative Procedure,OPERATIVE REPORT
+Instruments,Yes,Operative Procedure,OPERATIVE REPORT
+Supplies & Drugs,Yes,Operative Procedure,OPERATIVE REPORT
+Post-op Skin Information,Yes,Operative Procedure,OPERATIVE REPORT
+Counts by Panel,Yes,Operative Procedure,OPERATIVE REPORT
+Timeouts,Yes,Operative Procedure,OPERATIVE REPORT
+Case Completion Information,Yes,Operative Procedure,OPERATIVE REPORT
+Verification Information,Yes,Operative Procedure,OPERATIVE REPORT
+OPERATION PERFORMED,Yes,Operative Procedure,OPERATIVE REPORT
+OPERATIVE DESCRIPTION,Yes,Operative Procedure,OPERATIVE REPORT
+RADIOGRAPHIC ASSESSMENT,Yes,Operative Procedure,OPERATIVE REPORT
+DATE OF OPERATION/PROCEDURE,Yes,Operative Procedure,OPERATIVE REPORT
+DESCRIPTION OF THE OPERATION IN BRIEF,Yes,Operative Procedure,OPERATIVE REPORT
+BLOOD LOSS,Yes,Operative Procedure,OPERATIVE REPORT
+OPERATION IN DETAIL,Yes,Operative Procedure,OPERATIVE REPORT
+DETAILS OF THE PROCEDURE,Yes,Operative Procedure,OPERATIVE REPORT
+Specimen,Yes,Operative Procedure,OPERATIVE REPORT
+Operative Procedure Performed,Yes,Operative Procedure,OPERATIVE REPORT
+Type of Anesthesia,Yes,Operative Procedure,OPERATIVE REPORT
+Complaints,Yes,Operative Procedure,OPERATIVE REPORT
+Operative Procedure technique,Yes,Operative Procedure,OPERATIVE REPORT
+Date of Operation,Yes,Operative Procedure,OPERATIVE REPORT
+Indications for Surgery/Procedure,Yes,Operative Procedure,OPERATIVE REPORT
+Description of Findings,Yes,Operative Procedure,OPERATIVE REPORT
+Technical/Surgical Procedures Used,Yes,Operative Procedure,OPERATIVE REPORT
+Specimens/Tissue Removed,Yes,Operative Procedure,OPERATIVE REPORT
+Hospital Medications,Yes,Operative Procedure,OPERATIVE REPORT
+Home Medications / Respiratory Treatment,Yes,Operative Procedure,OPERATIVE REPORT
+Medical History,Yes,Operative Procedure,OPERATIVE REPORT
+Surgical History,Yes,Operative Procedure,OPERATIVE REPORT
+Additional Historw/ROS,Yes,Operative Procedure,OPERATIVE REPORT
+Operative Summary,Yes,Operative Procedure,OPERATIVE REPORT
+PROSTHETIC DEVICES,Yes,Operative Procedure,OPERATIVE REPORT
+Date of Surgery,Yes,Operative Procedure,OPERATIVE REPORT
+Preop Diagnosis,Yes,Operative Procedure,OPERATIVE REPORT
+Postop Diagnosis,Yes,Operative Procedure,OPERATIVE REPORT
+DATE OF PROCEDURE,Yes,Operative Procedure,OPERATIVE REPORT
+DISPOSITION,Yes,Operative Procedure,OPERATIVE REPORT
+OPERATIVE REPORT,Yes,Operative Procedure,OPERATIVE REPORT
+Postoperative Information,Yes,Operative Procedure,OPERATIVE REPORT
+Subjective,Yes,Operative Procedure,OPERATIVE REPORT
+Assessment,Yes,Operative Procedure,OPERATIVE REPORT
+Procedure Name,Yes,Operative Procedure,OPERATIVE REPORT
+Procedure Findings,Yes,Operative Procedure,OPERATIVE REPORT
+OPERATIVE FINDINGS,Yes,Operative Procedure,OPERATIVE REPORT
+DESCRIPTION OF THE PROCEDURE,Yes,Operative Procedure,OPERATIVE REPORT
+HISTORY OF PRESENT ILLNESS AND DOCUMENTATION OF INFORMED CO,Yes,Operative Procedure,OPERATIVE REPORT
+IMPLANTED MATERIAL,Yes,Operative Procedure,OPERATIVE REPORT
+STIMULATION THRESHOLDS,Yes,Operative Procedure,OPERATIVE REPORT
+BRADY PARAMETER SETTINGS,Yes,Operative Procedure,OPERATIVE REPORT
+TACHY PARAMETER SETTINGS,Yes,Operative Procedure,OPERATIVE REPORT
+Detailed description of procedure,Yes,Operative Procedure,OPERATIVE REPORT
+Attestation,Yes,Operative Procedure,OPERATIVE REPORT
+Procedure Summary,Yes,Operative Procedure,OPERATIVE REPORT
+Procedure(s),Yes,Operative Procedure,OPERATIVE REPORT
+Procedure Description,Yes,Operative Procedure,OPERATIVE REPORT
+ESTIMATED FLOOD LOSS,Yes,Operative Procedure,OPERATIVE REPORT
+Procedural Background,Yes,Operative Procedure,OPERATIVE REPORT
+Other Procedures,Yes,Operative Procedure,OPERATIVE REPORT
+Anesthesia Type,Yes,Operative Procedure,OPERATIVE REPORT
+Implants and Tissue,Yes,Operative Procedure,OPERATIVE REPORT
+Specimen(s),Yes,Operative Procedure,OPERATIVE REPORT
+Impression/Plan,Yes,Operative Procedure,OPERATIVE REPORT
+PROCEDURE IN DETAIL,Yes,Operative Procedure,OPERATIVE REPORT
+PROCEDURES DONE,Yes,Operative Procedure,OPERATIVE REPORT
+Surgery start date/time,Yes,Operative Procedure,OPERATIVE REPORT
+Name of procedure,Yes,Operative Procedure,OPERATIVE REPORT
+Complication(s),Yes,Operative Procedure,OPERATIVE REPORT
+Description of technique/procedure,Yes,Operative Procedure,OPERATIVE REPORT
+Anesthesi,Yes,Operative Procedure,OPERATIVE REPORT
+Operative Indications,Yes,Operative Procedure,OPERATIVE REPORT
+Cardiac Catheterization Procedure Report,Yes,Operative Procedure,OPERATIVE REPORT
+PREOPERATIVE DIAGNOSIS,Yes,OPERATIVE REPORT,OPERATIVE REPORT
+Addendum,Yes,Operative Report Note,OPERATIVE REPORT
+BRIEF HISTORY,Yes,Operative Report Proc. Note,OPERATIVE REPORT
+ESTIMATED BLOOD LOSS,Yes,Operative/procedure note,OPERATIVE REPORT
+Patient Condition,Yes,Operative/Procedure Reports,OPERATIVE REPORT
+Chief complaint Description,Yes,Orthopaedic Progress Note,Progress Note
+Reason for Procedure,Yes,Orthopedics Operative Note,OPERATIVE REPORT
+INDICATION,Yes,Other Procedures,OPERATIVE REPORT
+LABS,Yes,Otolaryngology Daily Progress Not,Progress Note
+INITIAL CONSULTATION NOTE,Yes,Palliative Care,MISC
+Palliative Care Follow Up,Yes,Palliative Care,MISC
+Diagnostics:,Yes,Palliative Care,MISC
+Diagnostics:,Yes,Palliative Care,MISC
+lab results,Yes,Palliative Medicine Consult,CONSULTATION REPORT
+Review / Management,Yes,Patient Discharge Instructions,Discharge Summary
+Findings,Yes,Patient Fluoroscopy Radiation Dose Information,OPERATIVE REPORT
+Consent,Yes,Perioperative Documentation,OPERATIVE REPORT
+Description of Procedure(s),Yes,Perioperative Documentation,OPERATIVE REPORT
+SPECIMEN(S) REMOVED,Yes,Perioperative Nursing Note - Encounter Notes,OPERATIVE REPORT
+COMPLICATIONS,Yes,Perioperative Record,OPERATIVE REPORT
+PLACEMENT OF THE PEDICLE SCREW INSTRUMENTATION,Yes,PERMANENT MEDICAL RECORD COPY,OPERATIVE REPORT
+Recent Labs,Yes,Pharmacy Progress Note,Progress Note
+Discharge Instructions,Yes,Physician Discharge Summary,Discharge Summary
+Hematology,Yes,Physician Progress Note,Progress Note
+Hematology Basic - Last 36 hours (20),Yes,Physician Progress Note,Progress Note
+Laboratory Data:,Yes,Physician Progress Note,Progress Note
+LABORATORY STUDIES:,Yes,Physician Progress Note,Progress Note
+CBC WITH DIFFERENTIAL,Yes,Physician Progress Note,Progress Note
+CBC WITHOUT DIFFERENTIAL,Yes,Physician Progress Note,Progress Note
+Urinalysis,Yes,Physician Progress Note,Progress Note
+Urinalysis - Last 36 hours (18),Yes,Physician Progress Note,Progress Note
+Health Status,Yes,Physician Progress Notes,Progress Note
+Hematology,Yes,Physician Progress Notes,Progress Note
+Hematology Basic - Last 36 hours (25),Yes,Physician Progress Notes,Progress Note
+Laboratory Data:,Yes,Physician Progress Notes,Progress Note
+LABORATORY STUDIES:,Yes,Physician Progress Notes,Progress Note
+CBC WITH DIFFERENTIAL,Yes,Physician Progress Notes,Progress Note
+CBC WITHOUT DIFFERENTIAL,Yes,Physician Progress Notes,Progress Note
+Urinalysis,Yes,Physician Progress Notes,Progress Note
+Urinalysis - Last 36 hours (18),Yes,Physician Progress Notes,Progress Note
+Lab Results,Yes,Physician Progress Notes,Progress Note
+Recent Labs,Yes,Physician Progress Notes,Progress Note
+BMP:,Yes,Physician Progress Notes,Progress Note
+LFTS: ,Yes,Physician Progress Notes,Progress Note
+Recent pertinent labs:,Yes,Physician Progress Notes,Progress Note
+Labs:,Yes,Physician Progress Notes,Progress Note
+Physical Examination,Yes,Physician Progress Notes,Progress Note
+HISTORY OF PRESENT ILLNESS,Yes,Physician's Clinical Report,Progress Note
+REVIEW OF SYSTEMS,Yes,Physician's Clinical Report,Progress Note
+SOCIAL HISTORY,No,Physician's Clinical Report,Progress Note
+PHYSICAL EXAM,Yes,Physician's Clinical Report,Progress Note
+ADDITIONAL NOTES,Yes,Physician's Clinical Report,Progress Note
+"LABS, X-RAYS, AND EKG",Yes,Physician's Clinical Report,Progress Note
+Laboratory Tests:,Yes,Physician's Clinical Report,Progress Note
+Urine Microscopic Exam:,No,Physician's Clinical Report,Progress Note
+CMP: (COLL: 06/07/2021 23:55),Yes,Physician's Clinical Report,Progress Note
+Final Results,Yes,Physician's Clinical Report,Progress Note
+Pathology result,Yes,PLASTIC SURGERY PROGRESS NOTE,Progress Note
+POSTERIOR OPERATION,Yes,POST OP NOTE,OPERATIVE REPORT
+ANTERIOR OPERATION,Yes,POST-OPERATIVE NOTES,OPERATIVE REPORT
+OBJECTIVE - MEDICINE,Yes,POST-OPERATIVE PROGRESS NOTES,Progress Note
+DESCRIPTION OF PROCEDUR,Yes,POST-OPERATIVE PROGRESS NOTES,OPERATIVE REPORT
+I/O,Yes,POST-PROCEDURAL PROGRESS NOTES,Progress Note
+Medical History,Yes,Pre and Post Anesthesia Evaluation, PREOPERATIVE EVAluation -Anesthesia
+Surgical History,Yes,Pre and Post Anesthesia Evaluation, PREOPERATIVE EVAluation -Anesthesia
+Additional Historw/ROS,Yes,Pre and Post Anesthesia Evaluation, PREOPERATIVE EVAluation -Anesthesia
+Date/Time procedure performed,Yes,Pre and Post Anesthesia Evaluation, PREOPERATIVE EVAluation -Anesthesia
+Location,Yes,Pre and Post Anesthesia Evaluation, PREOPERATIVE EVAluation -Anesthesia
+Pre-Procedure Diagnosis/Indication,Yes,Pre and Post Anesthesia Evaluation, PREOPERATIVE EVAluation -Anesthesia
+Post-ProcedureDiagnosis,Yes,Pre and Post Anesthesia Evaluation, PREOPERATIVE EVAluation -Anesthesia
+Performing Clinician,Yes,Pre and Post Anesthesia Evaluation, PREOPERATIVE EVAluation -Anesthesia
+Anesthesia Sedation Assessment,Yes,Pre and Post Anesthesia Evaluation, PREOPERATIVE EVAluation -Anesthesia
+Arterial Line Insertion,Yes,Pre and Post Anesthesia Evaluation, PREOPERATIVE EVAluation -Anesthesia
+Procedure Findings,Yes,Pre and Post Anesthesia Evaluation, PREOPERATIVE EVAluation -Anesthesia
+OPENING OF THE POSTERIOR WOUND,Yes,PRE-OP ASSESSMENTS,OPERATIVE REPORT
+Procedure(s),Yes,PRE-OP/OSU ASSESSMENTS,OPERATIVE REPORT
+Date of Procedure,Yes,PREOPERATIVE EVAluation -Anesthesia,OPERATIVE REPORT
+Hospital Medications,Yes,PREOPERATIVE EVAluation -Anesthesia, PREOPERATIVE EVAluation -Anesthesia
+TYPE OF ANESTHESIA ADMINISTERED,Yes,Preoperative Orders — Cardio- Vascular/ Thoracic Procedures,OPERATIVE REPORT
+RESULTS OF INTERVENTION,Yes,Preprocedure Note,OPERATIVE REPORT
+CONCLUSIONS,Yes,procedure,OPERATIVE REPORT
+PROCEDURES,Yes,PROCEDURE - Encounter Notes,OPERATIVE REPORT
+Instructions to Medical Records,Yes,procedure note,OPERATIVE REPORT
+Home Medications / Respiratory Treatment,Yes,Procedure Note - Anesthesia, PREOPERATIVE EVAluation -Anesthesia
+DATE OF SERVICE,Yes,Procedure Notes,OPERATIVE REPORT
+Indication for Surgery,Yes,Procedure report,OPERATIVE REPORT
+IMPRESSION,Yes,Procedures,OPERATIVE REPORT
+Operation/Procedure Performed,Yes,Procedures - Surgical/Procedural Notes,OPERATIVE REPORT
+Physical Examination,Yes,Progress Note,Progress Note
+CBC,Yes,Progress Note,Progress Note
+CBC WITH DIFFERENTIAL,Yes,Progress Note,Progress Note
+CBC WITHOUT DIFFERENTIAL,Yes,Progress Note,Progress Note
+Urinalysis,Yes,Progress Note,Progress Note
+Urinalysis - Last 36 hours (18),Yes,Progress Note,Progress Note
+Laboratory Tests,Yes,Progress Note,Progress Note
+Laboratory results,Yes,Progress Note,Progress Note
+Laboratory Tests,Yes,Progress Note,Progress Note
+Lab Results,Yes,Progress Note,Progress Note
+Lab Results,Yes,Progress Note,Progress Note
+Recent Labs,Yes,Progress Note,Progress Note
+Recent Labs,Yes,Progress Note,Progress Note
+Recent Labs,Yes,Progress Note,Progress Note
+BMP:,Yes,Progress Note,Progress Note
+LFTS: ,Yes,Progress Note,Progress Note
+Recent pertinent labs:,Yes,Progress Note,Progress Note
+Labs:,Yes,Progress Note,Progress Note
+Results review: Lab results,Yes,Progress Note,Progress Note
+PLAN,Yes,Progress Note - Generic,Progress Note
+Laboratory Data:,Yes,Progress Note - Medical .- Internal Medicine,Progress Note
+Diagnostics,Yes,Progress Note - Surgical-Neurosurgery,Progress Note
+Basic Information,Yes,Progress Note-Medical Provider,Progress Note
+Subjective ,Yes,Progress Notes,Progress Note
+MEDICATIONS,Yes,Progress Notes,Progress Note
+BMP:,Yes,Progress Notes,Progress Note
+LFTS: ,Yes,Progress Notes,Progress Note
+Recent pertinent labs:,Yes,Progress Notes,Progress Note
+Labs:,Yes,Progress Notes,Progress Note
+Cells,Yes,Progress Notes,Progress Note
+Differential,Yes,Progress Notes,Progress Note
+Leukocycte Data,Yes,Progress Notes,Progress Note
+Morphology,No,Progress Notes,Progress Note
+CBC,Yes,Progress Notes,Progress Note
+CBC Differential,Yes,Progress Notes,Progress Note
+Results review: Lab results,Yes,Progress Notes,Progress Note
+Results:,Yes,Progress Notes - All Other Notes (continued),Progress Note
+Recent Labs,Yes,Progress Notes - All Other Notes (continued),Progress Note
+MICROBIOLOGY,Yes,Progress Notes - All Other Notes (continued),Progress Note
+Laboratory Tests,Yes,Progress Notes - All Other Notes (continued),Progress Note
+RADIOLOGY,Yes,Progress Notes - All Other Notes (continued),Progress Note
+CBC:,Yes,Progress Notes - All Other Notes (continued),Progress Note
+Recent Labs,Yes,Progress Notes - All Other Notes (continued),Progress Note
+CMP:,Yes,Progress Notes - All Other Notes (continued),Progress Note
+Assessment,Yes,Progress Notes - All Other Notes (continued),Progress Note
+Diagnosis,Yes,Progress Notes - Nursing,Progress Note
+Review / Management,Yes,PROGRESS NOTES (Continued),Progress Note
+Cardiac Testing,No,Progress Notes:,Progress Note
+Allergies:,Yes,Progress Quick Note,Progress Note
+Family/Social History,Yes,Progress Quick Note,Progress Note
+INTERVENTIONAL CARDIOLOGY FOLLOW UP NOTE[,Yes,Progress Quick Note,Progress Note
+Assessment/Rec,Yes,Progress Quick Note,Progress Note
+PLAN AND DISCUSSION,Yes,Progress Quick Note,Progress Note
+DATE OF SERVICE,Yes,Progress Quick Note,Progress Note
+PAST MEDICAL HISTORY,Yes,Progress Quick Note,Progress Note
+PAST SURGICAL HISTORY,Yes,Progress Quick Note,Progress Note
+FAMILY HISTORY,Yes,Progress Quick Note,Progress Note
+SOCIAL HISTORY,Yes,Progress Quick Note,Progress Note
+CURRENT VITAL SIGNS,Yes,Progress Quick Note,Progress Note
+Problem list,Yes,Progress Quick Note,Progress Note
+Current Medication:,Yes,Progress Quick Note,Progress Note
+Medical History,Yes,Progress Quick Note,Progress Note
+Exam,Yes,Progress Quick Note,Progress Note
+Instructions,Yes,Progress Quick Note,Progress Note
+Labs and Diagnostics,No,Progress Quick Note,Progress Note
+BASIC INFO,No,Progress Quick Note,Progress Note
+"Lines, Tubes and Drains",Yes,Progress Quick Note,Progress Note
+INTAKE/OUTPUT TOTALS,Yes,Progress Quick Note,Progress Note
+RADIOLOGY REPORTS,Yes,Progress Quick Note,Progress Note
+ASSESSMENT:,Yes,Progress Quick Note,Progress Note
+Completed Action List,Yes,Progress Quick Note,Progress Note
+PN - Pharmacy,Yes,Progress Quick Note,Progress Note
+Objective/Exam,Yes,Progress Quick Note,Progress Note
+Lab Result Diagram,Yes,Progress Quick Note,Progress Note
+Imaging and Cardiology,Yes,Progress Quick Note,Progress Note
+Laboratory Dat,Yes,Progress Quick Note,Progress Note
+Reason for Admission,Yes,Progress Quick Note,Progress Note
+History of Present Illness:,Yes,Progress Quick Note,Progress Note
+Hospital Course/Interval History,Yes,Progress Quick Note,Progress Note
+ROS,Yes,Progress Quick Note,Progress Note
+HPI,Yes,Progress Quick Note,Progress Note
+PMH/PSH,Yes,Progress Quick Note,Progress Note
+PHISICAL EXAM,Yes,Progress Quick Note,Progress Note
+DATA,Yes,Progress Quick Note,Progress Note
+ATTENDING ATTESTATION,No,Progress Quick Note,Progress Note
+Reason for Hospitalization,Yes,Progress Quick Note,Progress Note
+Brief History,Yes,Progress Quick Note,Progress Note
+Discharge Diagnoses,Yes,Progress Quick Note,Progress Note
+Discharge Medications,Yes,Progress Quick Note,Progress Note
+Plan/Recommendations,Yes,Progress Quick Note,Progress Note
+Clinical Data,Yes,Progress Quick Note,Progress Note
+Outpatient Medications,Yes,Progress Quick Note,Progress Note
+Prgblem List/Past Medical History,Yes,Progress Quick Note,Progress Note
+Professional Services,Yes,Progress Quick Note,Progress Note
+Intake & Output 3 Day Summary,Yes,Progress Quick Note,Progress Note
+SICU History and Physical,Yes,Progress Quick Note,Progress Note
+Consultants:,Yes,Progress Quick Note,Progress Note
+Documented Medications,Yes,Progress Quick Note,Progress Note
+Problem list:,Yes,Progress Quick Note,Progress Note
+Completed Action List:,Yes,Progress Quick Note,Progress Note
+Completed Action Lid,Yes,Progress Quick Note,Progress Note
+Prgbiem List/Past Medical History,Yes,Progress Quick Note,Progress Note
+Short Term PT Goals Grid,Yes,Progress Quick Note,Progress Note
+Lona Term PT Goals Grid,Yes,Progress Quick Note,Progress Note
+General Info,Yes,Progress Quick Note,Progress Note
+Primary Pain,Yes,Progress Quick Note,Progress Note
+Transfer Rehab Grid,Yes,Progress Quick Note,Progress Note
+Ambulation Rehab Grid,Yes,Progress Quick Note,Progress Note
+Treatment Log,Yes,Progress Quick Note,Progress Note
+DC Recommendations,Yes,Progress Quick Note,Progress Note
+Education,Yes,Progress Quick Note,Progress Note
+OT Pail ent/Famlly Goals,Yes,Progress Quick Note,Progress Note
+Lona Term OT Goals Grid,Yes,Progress Quick Note,Progress Note
+Plan Review,Yes,Progress Quick Note,Progress Note
+Prior Functional Level Grid,Yes,Progress Quick Note,Progress Note
+Functional Mobility,Yes,Progress Quick Note,Progress Note
+Transfers OT,Yes,Progress Quick Note,Progress Note
+Course / Events,Yes,Progress Quick Note,Progress Note
+Clinical Discussion,Yes,Progress Quick Note,Progress Note
+Reason for Visit:,Yes,Progress Quick Note,Progress Note
+HISTORY OF PRESENT ILLNES,Yes,Progress Quick Note,Progress Note
+DIAGNOSTIC STUDIES,Yes,Progress Quick Note,Progress Note
+Intake/Output,Yes,Progress Quick Note,Progress Note
+Patient Information,Yes,Progress Quick Note,Progress Note
+Instructions to Medical Records,Yes,Progress Quick Note,Progress Note
+Diagnostic Results,Yes,Progress Quick Note,Progress Note
+Hospital Course,Yes,Progress Quick Note,Progress Note
+Review of Systems,Yes,Progress Quick Note,Progress Note
+Family Updates,Yes,Progress Quick Note,Progress Note
+Quality Improvement,Yes,Progress Quick Note,Progress Note
+Data/Imaging,Yes,Progress Quick Note,Progress Note
+IMPRESSION,Yes,Progress Quick Note,Progress Note
+TREATMENT PLAN,Yes,Progress Quick Note,Progress Note
+COVID-19 Strategies Deployed,Yes,Progress Quick Note,Progress Note
+Capsule Summary,No,Progress Quick Note,Progress Note
+ON Events,No,Progress Quick Note,Progress Note
+Acute Problems,Yes,Progress Quick Note,Progress Note
+Radiology data,No,Progress Quick Note,Progress Note
+"Diagnosis, Assessment & Plan",Yes,Progress Quick Note,Progress Note
+Recommendation:,Yes,Progress Quick Note,Progress Note
+HPI Summary,Yes,Progress Quick Note,Progress Note
+Past Medical/Surgical/Family History,Yes,Progress Quick Note,Progress Note
+Social,Yes,Progress Quick Note,Progress Note
+LAB RESULTS,No,Progress Quick Note,Progress Note
+Results,No,Progress Quick Note,Progress Note
+Wound Assessment,Yes,Progress Quick Note,Progress Note
+Other Notes,Yes,Progress Quick Note,Progress Note
+perfusion record,Yes,Progress Quick Note,Progress Note
+Brief historical review,Yes,Progress Quick Note,Progress Note
+Procedure/operative data,Yes,Progress Quick Note,Progress Note
+Recent Labs,No,Progress Quick Note,Progress Note
+Brief history review,Yes,Progress Quick Note,Progress Note
+Results Review,Yes,Progress Quick Note,Progress Note
+O/E,Yes,Progress Quick Note,Progress Note
+A/P,Yes,Progress Quick Note,Progress Note
+History of Present Illness/Subjective,Yes,Progress Quick Note,Progress Note
+Physical Exam/Objective,Yes,Progress Quick Note,Progress Note
+Procedure/Surgical History,Yes,Progress Quick Note,Progress Note
+INPATIENT MEDICATIONS,Yes,Progress Quick Note,Progress Note
+LABORATORIES,Yes,Progress Quick Note,Progress Note
+PHYSICIAN COVID ASSESSMENT,Yes,Progress Quick Note,Progress Note
+Patient Active Problem List,Yes,Progress Quick Note,Progress Note
+Intake/Ouput,Yes,Progress Quick Note,Progress Note
+OBJECTIVE/PHYSICAL EXAMINATION,Yes,Progress Quick Note,Progress Note
+LABORATORY EXAMINATION,No,Progress Quick Note,Progress Note
+Narrative,Yes,Progress Quick Note,Progress Note
+Imaging studies,No,Progress Quick Note,Progress Note
+Neurosurgery,Yes,Progress Quick Note,Progress Note
+Interventions,Yes,Progress Quick Note,Progress Note
+Monitoring and Evaluation:,Yes,Progress Quick Note,Progress Note
+Historyof PresentIllness,Yes,Progress Quick Note,Progress Note
+Daily subjective,Yes,Progress Quick Note,Progress Note
+Anti-Coagulant Medications,Yes,Progress Quick Note,Progress Note
+HPI / Subjective,Yes,Progress Quick Note,Progress Note
+Active Medications,Yes,Progress Quick Note,Progress Note
+CURRENT MEDICATION,Yes,Progress Quick Note,Progress Note
+Surgical history,Yes,Progress Quick Note,Progress Note
+HISTORY AND INDICATIONS FOR ADMISSION,Yes,Progress Quick Note,Progress Note
+HOSPITAL COURSE: Th,Yes,Progress Quick Note,Progress Note
+HISTORY OF PRESENT ILLNESS: The p,Yes,Progress Quick Note,Progress Note
+EXAMINATION,Yes,Progress Quick Note,Progress Note
+Food & Nutrient Delivery,Yes,Progress Quick Note,Progress Note
+Medications (33) Active,Yes,Progress Quick Note,Progress Note
+Radiology,Yes,Progress Quick Note,Progress Note
+Surgical Plan of Care Note,Yes,Progress Quick Note,Progress Note
+Active problems,Yes,Progress Quick Note,Progress Note
+Allergeis,Yes,Progress Quick Note,Progress Note
+Interval hx,Yes,Progress Quick Note,Progress Note
+Objective,Yes,Progress Quick Note,Progress Note
+Pulmonology Progress Note,Yes,Progress Quick Note,Progress Note
+Medications (32) Active,Yes,Progress Quick Note,Progress Note
+History Obtained from chart,Yes,Progress Quick Note,Progress Note
+PMH,Yes,Progress Quick Note,Progress Note
+Lines/tubes/airways,Yes,Progress Quick Note,Progress Note
+Summary Note,Yes,Progress Quick Note,Progress Note
+Diagnoses,Yes,Progress Quick Note,Progress Note
+free Text Subj Notes,Yes,Progress Quick Note,Progress Note
+Data Review,Yes,Progress Quick Note,Progress Note
+Assessment & Recommendations,Yes,Progress Quick Note,Progress Note
+Plan/summary,Yes,Progress Quick Note,Progress Note
+SUBJECTIVE | INTERVAL EVENTS,Yes,Progress Quick Note,Progress Note
+INTAKE & OUTPUT,Yes,Progress Quick Note,Progress Note
+DAILY EXAMINATION,Yes,Progress Quick Note,Progress Note
+IMAGING / STUDIES:,No,Progress Quick Note,Progress Note
+MICROBIOLOGY / PATHOLOGY,No,Progress Quick Note,Progress Note
+CURRENT INPATIENT MEDICATION LIST,Yes,Progress Quick Note,Progress Note
+ANTICIPATED DISPOSITION PLANNING,Yes,Progress Quick Note,Progress Note
+Indication,Yes,Progress Quick Note,Progress Note
+Medication,Yes,Progress Quick Note,Progress Note
+Findings,Yes,Progress Quick Note,Progress Note
+Continuous,Yes,Progress Quick Note,Progress Note
+General,Yes,Progress Quick Note,Progress Note
+Diet Orders,Yes,Progress Quick Note,Progress Note
+NUTRITION INTERVENTION,Yes,Progress Quick Note,Progress Note
+INPUT/OUTPUT,Yes,Progress Quick Note,Progress Note
+PROBLEM LIST PLAN,Yes,Progress Quick Note,Progress Note
+Midlevel/Physician Attestation,Yes,Progress Quick Note,Progress Note
+HOSPITALIST PROGRESS NOTE,Yes,Progress Quick Note,Progress Note
+DIAGNOSTIC DATA,Yes,Progress Quick Note,Progress Note
+Addendum,No,Progress Quick Note,Progress Note
+Objective/ Exam,Yes,Progress Quick Note,Progress Note
+Critical Care - PN: Subj,Yes,Progress Quick Note,Progress Note
+Critical Care - PN: Exam,Yes,Progress Quick Note,Progress Note
+Laboratory Results,No,Progress Quick Note,Progress Note
+ABG results,No,Progress Quick Note,Progress Note
+Critical Care - Pit A/P,Yes,Progress Quick Note,Progress Note
+Diagnostics - Non-Radiology,Yes,Progress Quick Note,Progress Note
+Medications (36) Active,Yes,Progress Quick Note,Progress Note
+Diagnostics - Non-Radiology - Last 36 hours (0),No,Progress Quick Note,Progress Note
+PROBLEM LIST PLAN:,Yes,Progress Quick Note,Progress Note
+SUBJECTIVE & PLAN,Yes,Progress Quick Note,Progress Note
+ASSESSMENT/PROBLEM LIST,Yes,Progress Quick Note,Progress Note
+Pre-operative Diagnosis,Yes,Progress Quick Note,Progress Note
+Post-operative Diagnosis,Yes,Progress Quick Note,Progress Note
+Indications for Surgery/Procedure,Yes,Progress Quick Note,Progress Note
+Primary Surgeon,Yes,Progress Quick Note,Progress Note
+Type of Anesthesia,Yes,Progress Quick Note,Progress Note
+Description of Findings,Yes,Progress Quick Note,Progress Note
+Technical/Surgical Procedures Used,Yes,Progress Quick Note,Progress Note
+Specimens/Tissue Removed:,Yes,Progress Quick Note,Progress Note
+Estimated Blood Loss,Yes,Progress Quick Note,Progress Note
+Complications,Yes,Progress Quick Note,Progress Note
+Attending physician attestation,Yes,Progress Quick Note,Progress Note
+Neuro Exam,Yes,Progress Quick Note,Progress Note
+Neuro ICU Attending Note,Yes,Progress Quick Note,Progress Note
+24 HR EVENTS/SUBJECTIVE,Yes,Progress Quick Note,Progress Note
+Identified resources for coping,Yes,Progress Quick Note,Progress Note
+Interventions offered during this visit,Yes,Progress Quick Note,Progress Note
+Plan of Care,Yes,Progress Quick Note,Progress Note
+Exams,Yes,Progress Quick Note,Progress Note
+Lab Review,Yes,Progress Quick Note,Progress Note
+24Hour Summary,Yes,Progress Quick Note,Progress Note
+Allergies/Intolerances,Yes,Progress Quick Note,Progress Note
+Objective Data,Yes,Progress Quick Note,Progress Note
+Problems/Assessments/Plan,Yes,Progress Quick Note,Progress Note
+Lines/Drains/Tubes/Devices,Yes,Progress Quick Note,Progress Note
+Allergies/Intolerance,Yes,Progress Quick Note,Progress Note
+Daily plan,Yes,Progress Quick Note,Progress Note
+Current Respiratory Orders,Yes,Progress Quick Note,Progress Note
+Respiratory Plan/Comments,Yes,Progress Quick Note,Progress Note
+A&P Subsequent,Yes,Progress Quick Note,Progress Note
+Procedures & Date,Yes,Progress Quick Note,Progress Note
+Assessment/Plan/Recommendations:,Yes,Progress Quick Note,Progress Note
+Reason for Continued Hospitalization,Yes,Progress Quick Note,Progress Note
+CONSULT REASON,Yes,Progress Quick Note,Progress Note
+RELEVANT MEDS / DIET ORDERS,Yes,Progress Quick Note,Progress Note
+Review of Systems/Medical History,Yes,Progress Quick Note,Progress Note
+Anesthesia Pre-Evaluation,Yes,Progress Quick Note,Progress Note
+Art Line,Yes,Progress Quick Note,Progress Note
+History - Adult longitudinal,Yes,Progress Quick Note,Progress Note
+Free Text A&P,Yes,Progress Quick Note,Progress Note
+CARDIAC CATHETERIZATION REPORT,Yes,Progress Quick Note,Progress Note
+HISTORY AND INDICATION,Yes,Progress Quick Note,Progress Note
+PROCEDURES PERFORMED,Yes,Progress Quick Note,Progress Note
+HEMODYNAMICS,Yes,Progress Quick Note,Progress Note
+FINAL IMPRESSION,Yes,Progress Quick Note,Progress Note
+CONCLUSIONS SUMMARY,Yes,Progress Quick Note,Progress Note
+General Information,Yes,Progress Quick Note,Progress Note
+Physician Information,Yes,Progress Quick Note,Progress Note
+Advance Directives,Yes,Progress Quick Note,Progress Note
+Discharge Planning Screen,Yes,Progress Quick Note,Progress Note
+24 Hour Summary,Yes,Progress Quick Note,Progress Note
+LABORATORY STUDIES,Yes,Progress Quick Note,Progress Note
+Chief complaint on admission,Yes,Progress Quick Note,Progress Note
+Review ofsymptom,Yes,Progress Quick Note,Progress Note
+Problems,Yes,Progress Quick Note,Progress Note
+Patient Narrative,Yes,Progress Quick Note,Progress Note
+Reason for ICU Admission/ Perioperative Course,Yes,Progress Quick Note,Progress Note
+Objective Data and Assessment,Yes,Progress Quick Note,Progress Note
+Lab Results,Yes,Progress Quick Note,Progress Note
+Recent Labs,Yes,Progress Quick Note,Progress Note
+Hospital Course,Yes,Progress/Discharge Note OT,Progress Note
+Allergies,Yes,Progress/Discharge Note OT,Discharge Summary
+Discharge Diagnosis,Yes,Progress/Discharge Note PT,Progress Note
+Subjective,Yes,Progress/Discharge Note PT,Progress Note
+Physical Examination,Yes,Progress/Discharge Note PT,Discharge Summary
+Health Status,Yes,Progress/Discharge Note PT,Discharge Summary
+Subjective,Yes,Provider - Admitting Notes_History and Physical,History & Physical
+Ros,Yes,Provider - Consult Notes,CONSULTATION REPORT
+Medications,Yes,Provider - Discharge Notes,Discharge Summary
+PROCEDURE,Yes,Provider - Progress Notes,Progress Note
+History,Yes,pulmonary and critical care consult note,CONSULTATION REPORT
+DIET,No,PULMONARY CRITICAL CARE,Progress Note
+ History of Present Illness,Yes,Pulmonology Consult,CONSULTATION REPORT
+Interval History,Yes,Pulmonology Progress Note,Progress Note
+SUBJECTIVE - MEDICINE,Yes,Pulmonology Progress Note,Progress Note
+Indication,Yes,Radiology,MISC
+Infectious Disease,Yes,Radiology,MISC
+Assessment/plan,Yes,REHAB CONSULT NOTE,CONSULTATION REPORT
+PATIENT IDENTIFICATION,Yes,RENAL PROGRESS NOTE,Progress Note
+Specimens,Yes,RE-OP/OSU ASSESSMENTS,OPERATIVE REPORT
+TRANSFER - OUT REPORT,Yes,Report of operation,OPERATIVE REPORT
+URINALYSIS WITH REFLEX CULTURE,Yes,Results,MISC
+CBC WITH DIFFERENTIAL,Yes,Results,MISC
+URINALYSIS WITH REFLEX MICROSCOPIC,Yes,Results,MISC
+CBC WITHOUT DIFFERENTIAL,Yes,Results,MISC
+CBC WITH DIFF,Yes,Results,MISC
+CBC,Yes,Results,MISC
+Urinalysis with Possible Microscopy and Possible Culture,Yes,Results,MISC
+RADIOLOGY AND DIAGNOSTIC,Yes,Social Work Progress Notes,Progress Note
+Assessment,Yes,Spiritual Care Assessment/Progress Note,Progress Note
+Review of Systems,Yes,STERN CARDIOVASCULAR ICU PROGRESS NOTE,Progress Note
+Home Medications,Yes,Summary Discharge Report*,Discharge Summary
+Arterial Line,Yes,Surgery - Anesthesia_Sedation Records,Anesthesia Reports
+Procedure Performed,Yes,Surgery - Operative Records,OPERATIVE REPORT
+Surgeon,Yes,Surgery - Peri-Operative Records,OPERATIVE REPORT
+DESCRIPTION OF PROCEDURE,Yes,Table of Contents,Progress Note
+CLOSURE OF THE WOUND,Yes,Transesophageal Echocardiogram,OPERATIVE REPORT
+Social History and Habits,Yes,TRAUMA HISTORY AND PHYSICAL,History & Physical
+Objective:,Yes,USF Internal Medicine Progress Note,Progress Note
+HPI:,Yes,Wound Care Progress Note,Progress Note
